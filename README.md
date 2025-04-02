@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm ChingSong 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building Cross-Platform Application / Back-End as well tho. Here's a little bit about me:
 
