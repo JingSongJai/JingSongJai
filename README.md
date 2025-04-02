@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves building Cross-Platform Application / Back-End as well tho. Here's a little bit about me:
 
 <!-- - 🔭 I’m currently working on [mention current projects or areas of interest]. -->
-- 🌱 I'm learning Flutter/PHP/Laravel.
 <!-- - 👯 I’m looking to collaborate on [mention any open-source contributions or projects you'd like to collaborate on]. -->
+- 🌱 I'm learning Flutter/PHP/Laravel.
 - 💬 Ask me anything about Programming Languages.
 - 📫 How to reach me: 015 528 384.
 
