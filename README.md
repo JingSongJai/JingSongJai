@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building Cros
 - 📫 How to reach me: 015 528 384.
 
 ## Some of my projects:
+- **Career Hunt**: The Applcation that focus on employees and employers.
 - **CV Generator**: WPF Application that let user generate their wanted CV.
 - **NOTE APP (Google Note App Clone)**: Similar to Google Note App.
 - **Music Player**: WinForm Application for playing music purpose.
@@ -18,6 +19,6 @@ Feel free to explore my repositories or reach out to me. I'm always open to coll
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/taing-chingsong-8331a8319/)
 <!-- - [Twitter](https://twitter.com/yourprofile) -->
-- [Personal Blog or Website](https://www.facebook.com/profile.php?id=100093239088732)
+- [Facebook](https://www.facebook.com/profile.php?id=100093239088732)
 
 Thanks for visiting! 😄
