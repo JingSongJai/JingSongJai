@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building Cros
 
 <!-- - 🔭 I’m currently working on [mention current projects or areas of interest]. -->
 <!-- - 👯 I’m looking to collaborate on [mention any open-source contributions or projects you'd like to collaborate on]. -->
-- 🌱 I'm learning Flutter/PHP/Laravel.
+- 🌱 I'm learning Flutter/NodeJS/FastAPI
 - 💬 Ask me anything about Programming Languages.
 - 📫 How to reach me: 015 528 384.
 
@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building Cros
 - **CV Generator**: WPF Application that let user generate their wanted CV.
 - **NOTE APP (Google Note App Clone)**: Similar to Google Note App.
 - **Music Player**: WinForm Application for playing music purpose.
+- **Facebook Clone (Flutter & NodeJS)**: Facebook clone with some features in facebook
 
 Feel free to explore my repositories or reach out to me. I'm always open to collaborating and learning from others!
 
